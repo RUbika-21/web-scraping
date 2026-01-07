@@ -41,3 +41,11 @@ Web scraping project using Python, Requests, and BeautifulSoup to extract data f
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
+
+## TASK 2: Exploratory Data Analysis (EDA)
+
+EDA was performed on the scraped dataset to understand its structure and quality.
+The analysis showed that the dataset contains 50 quotes from 28 unique authors.
+A small number of authors appear frequently, and tags related to inspiration,
+love, and life are the most common. No missing or duplicate values were found,
+indicating good data quality.
